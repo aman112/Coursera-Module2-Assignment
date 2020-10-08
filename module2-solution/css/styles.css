@@ -1,1 +1,14 @@
-
+*{
+box-sizing:border-box;
+}
+section{
+	border: 2px solid;
+	margin:10px;
+	padding:20px;
+	background-color:lightgrey;
+	width:400px;
+	height:200px;
+	overflow:auto;
+	float:left;
+	font-family:Calibri;
+}
